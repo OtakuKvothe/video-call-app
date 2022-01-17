@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Online Video Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Video Chat Application that is useful for real-time video conferencing.
+
+This project was constructed while learning socket.io and simple-peer. 
+
+## Installation
+
+Fork this project or download as zip
+
+run `npm install` once in root directory and once in `./client` folder.
 
 ## Available Scripts
 
